@@ -1,4 +1,4 @@
-package com.droidnova.jdbcconnect;
+package com.example.jdbcconnect;
 
 import org.springframework.stereotype.Component;
 public class Students {
